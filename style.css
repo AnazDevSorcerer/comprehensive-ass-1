@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* .new-style {
+    height: 400px;
+} */
+
+.style-new{
+    font-family: sans-serif;
+    line-height: 1.5;
+    padding: 10px;
+}
+
+.container-card {  
+    /* align-items: center; */
+    height: 400px;
+    justify-content: center;
+    background-color: rgb(226, 217, 217);
+    /* width: 300px;
+    /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); */
+
+}
+
+/* .container, card, img {
+    justify-content:center ;
+} */
